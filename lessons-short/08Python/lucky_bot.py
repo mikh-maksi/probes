@@ -19,7 +19,7 @@ def button(update: Update, context: CallbackContext) -> None:
         context.bot.send_photo(chat_id=chat.id, photo=photo_img ,reply_markup=reply_markup)
 
 def main() -> None:
-    updater = Updater("2136244102:AAEfZvt308Dh2bk58hSMmKIFwA3Ty-zq6bs")
+    updater = Updater("")
 
     updater.dispatcher.add_handler(CommandHandler('start', start))
     updater.dispatcher.add_handler(CallbackQueryHandler(button))
