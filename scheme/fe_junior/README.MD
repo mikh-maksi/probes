@@ -41,3 +41,7 @@
 <img src = "img/fejr19.png" width = 600>  
 <img src = "img/fejr20.png" width = 600>  
 <img src = "img/fejr00.png" width = 600>  
+
+
+- Смог ли я тебя заинтересовать?
+- Буду раз видеть на курсах
