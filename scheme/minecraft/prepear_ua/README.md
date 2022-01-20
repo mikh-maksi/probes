@@ -1,5 +1,11 @@
 # Minecraft - вхід
+Логін: GoiteensLove1@educationmir.onmicrosoft.com
+Пароль: ASH2Sl9ziY
+
 ## Крок 1. Вводимо логін і пароль, які ви отримали від менеджера при реєстрації.
+
+
+
 <img src = "img/in.jpg">
 <img src = "img/in1.jpg">
 
