@@ -58,3 +58,29 @@ class Program {
 **Random rnd = new Random();** - создаем "переменную специального типа Random"  
 **int n = rnd.Next(0,4);** - создаем числовую переменную **n**, которое получает случайное число, сгенерированное методом **Next**
 **Console.WriteLine(n);** - выводим значение переменной **n** в консоль.
+
+### Получим значение от пользователя и сравним его с заданным случайным образом.
+До этого - удалим строку №7, чтобы пользователь не видел значение, которое "загадал компьютер".  
+<img src = "img/gamedev09.jpg">  
+
+```C#
+using System;
+
+class Program {
+  public static void Main (string[] args) {
+    Random rnd = new Random();
+    int n = rnd.Next(0,4);
+    
+    Console.WriteLine("Введит число");
+    int player = Convert.ToInt32(Console.ReadLine());
+
+    if (n == player){
+      Console.WriteLine("Угадали!");
+    }  else {
+      Console.WriteLine("Не угадали! Правильный ответ: "+n);
+    }
+  }
+}
+
+```
+<img src = "img/gamedev10.jpg">  
