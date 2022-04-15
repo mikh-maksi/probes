@@ -3,7 +3,7 @@
 - Сколько тебе лет? О - круто!
 - Мне сказали, что заинтересовался создавать сайты уже в этом возрасте, это правда? (чтобы активировать ребенка, кто он не сам пришел: не мама заставила)
 - Расскажи, пожалуйста, что тебя заинтересовало?
-- <a href = "https://tilda.cc/ua/">https://tilda.cc/ua/</a>, <a href="https://tilda.cc/ru/">https://tilda.cc/ru/</a>  
+- <a href = "https://tilda.cc/ua/">https://tilda.cc/ua/</a>, <a href="https://tilda.cc/ru/">https://tilda.cc/ru/</a>    
 <img src = "img/fejr01.png" width = 600>  
 <img src = "img/fejr02.png" width = 400>  
 
