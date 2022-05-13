@@ -13,8 +13,10 @@
 <img src = "img/Scratch10.jpg">  
 <img src = "img/Scratch11.jpg">  
 <img src = "img/Scratch12.jpg">  
-- Добавим фон (студент выбирает сам фон):  
-<img src = "img/scratch01.png" width = 200>
-<img src = "img/scratch02.png" width = 200>
-<img src = "img/scratch03.png" width = 200>
+
+- Добавим фон (студент выбирает сам фон):   
+
+<img src = "img/scratch01.png" width = 400>  
+<img src = "img/scratch02.png" width = 400>  
+<img src = "img/scratch03.png" width = 400>  
 
