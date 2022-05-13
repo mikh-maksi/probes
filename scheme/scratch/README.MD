@@ -1,33 +1,20 @@
-# Scratch
-## Введение
-- Привет!
-- Сейчас мы с вами сделаем свою анимационную историю: научим котика и других зверей ходить и бегать по лесу
-- Меня зовут ... Я - преподаватель.
-- Расскажите, как вас зовут, откуда вы и почему пришли на данный курс 
-## Основная часть
-- Давай запрограммируем котика:   
-Необходимо собрать заготовленные блоки:  
-  <a href = "https://scratch.mit.edu/projects/566707993/editor/">Котик бегает</a>  
-В следующей последовательности (при добавлении каждого нового блока делать запуск):  
-  <img src = "img/scratch07.jpg">  
+# scratch-probe
+<a href = "https://scratch.mit.edu/projects/566707993/editor/">Котик бегает</a>  
   
-(+ изменив параметр)  
-<img src = "img/scratch08.png" width = 300>  
-
-В результате получим следующий результат:  
-<img src = "img/scratch09.gif" width = 300>  
-
-
-**Дополнительные элементы (если студент продвинутый):**  
+<img src = "img/Scratch1.jpg">  
+<img src = "img/Scratch2.jpg">  
+<img src = "img/Scratch3.jpg">  
+<img src = "img/Scratch4.jpg">  
+<img src = "img/Scratch5.jpg">  
+<img src = "img/Scratch6.jpg">  
+<img src = "img/Scratch7.jpg">  
+<img src = "img/Scratch8.jpg">  
+<img src = "img/Scratch9.jpg">  
+<img src = "img/Scratch10.jpg">  
+<img src = "img/Scratch11.jpg">  
+<img src = "img/Scratch12.jpg">  
 - Добавим фон (студент выбирает сам фон):  
 <img src = "img/scratch01.png" width = 200>
 <img src = "img/scratch02.png" width = 200>
 <img src = "img/scratch03.png" width = 200>
 
-- Добавим еще одного персонажа:  
-<img src = "img/scratch04.png" width = 200>
-<img src = "img/scratch05.png" width = 200>
-<img src = "img/scratch06.png" width = 200>
-
-- мы показали тебе, как проходят занятия: на каждом уроке мы разбираем интересный элемент и делаем анимационные истории и игры.
- 
