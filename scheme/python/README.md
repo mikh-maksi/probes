@@ -131,7 +131,9 @@ updater.idle()
 
 ## Счастливый бот
 Поменяем функциальность нашему боту. Научим его теперь отправлять нам поздравительную открытку.
-Для этого - заменим код эхо-бота на код счстливого бота.
+Для этого - удалим код эхо-бота
+<img src = "img/pythonanywhere16.png">
+
 ```python
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler
@@ -164,4 +166,16 @@ updater.start_polling()
 updater.idle()
 ```
 
-Запустим данного бота и увидим, как он работает:
+При цьому - на 20-му рядку додамо токен підключення до боту  
+
+<img src = "img/pythonanywhere17.png">
+
+Токен - візьмемо в боті **botfather**.  
+<img src = "img/pythonanywhere18.png">
+
+Та запустимо отриманий код:  
+<img src = "img/pythonanywhere19.png">  
+
+Отримаємо відповідний результат:  
+<img src = "img/pythonanywhere20.gif">  
+
