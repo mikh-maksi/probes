@@ -1,4 +1,7 @@
-# Minecraft - вхід
+## Скачйте Minecraft Education
+https://education.minecraft.net/ru-ru/get-started/download 
+
+## Minecraft - вхід
 Логін: GoiteensLove1@educationmir.onmicrosoft.com
 Пароль: ASH2Sl9ziY
 
